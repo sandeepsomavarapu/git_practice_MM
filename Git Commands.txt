@@ -1,0 +1,10 @@
+git commands list:
+===================
+
+git init :to intiaize local repo
+
+git status
+
+git add
+
+

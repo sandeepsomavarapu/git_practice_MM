@@ -1,0 +1,15 @@
+
+
+
+GIT :2005
+
+git hub:2007
+bitbucket:2010
+gitlab  :2011
+LINUX->Linus torvalds
+	
+
+created the distributed version control system Git. DVCS
+
+Subversion is an open source version control system. Founded in 2000   CVCS
+
