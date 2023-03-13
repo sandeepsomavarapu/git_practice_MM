@@ -8,3 +8,6 @@ git status
 git add
 
 
+git commit -m "basic commands added to notes"
+git restore "filename"
+git restore --staged "filename"
