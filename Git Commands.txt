@@ -7,7 +7,10 @@ git status
 
 git add
 
+git config
 
 git commit -m "basic commands added to notes"
 git restore "filename"
 git restore --staged "filename"
+
+git log #to see logs
